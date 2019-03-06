@@ -5,6 +5,6 @@ Serial Controller plugin for SDR#
 
 Receives frequency changes through COM port, using AR-ONE compatible protocol. Can be used to receive frequency changes from app like Unitrunker.
 
-My initial guide how to set up all this: http://web.archive.org/web/20160821124549/http://users.vline.pl:80/~pewusoft/sdr/how.html
+My initial guide how to set up all this: [HOWTO](howto/HOWTO.md)
 
 releases: https://github.com/pewusoft/serial-controller/releases/
